@@ -1,5 +1,5 @@
 ### Hi! 👋 I'am Shandy.
-
+Hi! I’m an Information Systems graduate from Sebelas April University. I focus on system analysis, IT infrastructure, cloud computing, and web/software development. I’m curious, quick to learn, and love turning ideas into solutions. Looking forward to collaborating on impactful projects and growing along the way.
 <!--
 **shandyrzk/shandyrzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
